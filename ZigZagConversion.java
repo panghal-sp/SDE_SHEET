@@ -1,10 +1,10 @@
 import java.util.Arrays;
 
-public class Solution {
+public class ZigZagConversion {
 StringBuffer ans=new StringBuffer("");
     public static void main(String [] args){
         System.out.println("Started");
-        new Solution().convert("PAYPALISHIRING",4);
+        new ZigZagConversion().convert("PAYPALISHIRING",4);
     }
 
 
